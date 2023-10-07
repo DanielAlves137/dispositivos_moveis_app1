@@ -1,7 +1,5 @@
 import { Text, View , SafeAreaView, TouchableOpacity, Image} from 'react-native';
 import { styles } from './styles';
-import React, { useState } from 'react';
-import { AntDesign } from '@expo/vector-icons';
 
 export default function App() {
 
